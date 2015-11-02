@@ -115,7 +115,7 @@ i.d.F. der Zweiten Änderungssatzung der Satzung der Studierendenschaft der Univ
 
 (3) Das Studierendenparlament nimmt Stellung zu hochschulpolitischen Fragestellungen nach § 1 Abs. 2 dieser Satzung und beschließt die politische Strategie und die Grundlinien der aktuellen Politik der Studierendenschaft. Sofern nichts anderes bestimmt ist, fällt es Beschlüsse mit der einfachen Mehrheit seiner anwesenden Mitglieder. Es nimmt die Berichte des Allgemeinen Studierendenausschusses, des Rechnungsprüfungsausschusses und seiner Arbeitskreise und Kommissionen entgegen.
 
-(4) Das Studierendenparlament erlässt, ändert und hebt die Satzung der Studierendenschaft mit einer Zweidrittelmehrheit der Mitglieder des Studierendenparlaments auf. Hierbei sind die Fristen und Mitwirkungsrechte der Versammlung der Fachschaften gemäß § 33 zu gewährleisten. Es beschließt ferner über:
+(4) Das Studierendenparlament erlässt, ändert und hebt die Satzung der Studierendenschaft mit einer Zweidrittelmehrheit der Mitglieder des Studierendenparlaments auf. Hierbei sind die Fristen und Mitwirkungsrechte der Versammlung der Fachschaften gemäß § 34 zu gewährleisten. Es beschließt ferner über:
 
 - die Finanzordnung, die Nutzungsordnung für Internetserver, den Haushalt der Studierendenschaft der Universität Potsdam mit der Mehrheit seiner Mitglieder,
 - die Beitragsordnung der Studierendenschaft mit einer Zweidrittelmehrheit seiner Mitglieder. Kommt ein solcher Beschluss nicht zustande, gilt die Höhe der Beiträge des letzten Semesters weiter und die Beitragsordnung für das kommende Semester mit diesen Beiträgen als beschlossen. Eine Änderung der Beitragsordnung durch einen Initiativantrag ist nicht möglich,
@@ -164,7 +164,7 @@ Scheidet ein Mitglied aus, rückt automatisch eine Kandidatin oder ein Kandidat 
 
 - auf Antrag des Allgemeinen Studierendenausschusses,
 - auf Verlangen von drei Fachschaftsräten,
-- nach einer Vollversammlung gemäß § 28 Abs. 2,
+- nach einer Vollversammlung gemäß § 29 Abs. 2,
 - auf Verlangen von einem Prozent aller Mitglieder der Studierendenschaft,
 - auf Verlangen von einem Drittel der Mitglieder des Studierendenparlaments oder mindestens zwei im Studierendenparlament vertretenen Listen.
 
@@ -289,7 +289,7 @@ Die Mitglieder des studentischen Wahlausschusses erhalten für eine Amtsperiode 
 
 ##§ 21 Die Versammlung der Fachschaften
 
-(1) Die Versammlung der Fachschaften (VeFa) dient der Koordinierung der Fachschaften untereinander und mit anderen Organen der Studierendenschaft. Bis einen Monat vor Ende des Haushaltsjahres beschließt die Versammlung der Fachschaften einen Verteilungsschlüssel für die den Fachschaften nach § 19 Abs. 4 zustehenden Mittel.
+(1) Die Versammlung der Fachschaften (VeFa) dient der Koordinierung der Fachschaften untereinander und mit anderen Organen der Studierendenschaft. Bis einen Monat vor Ende des Haushaltsjahres beschließt die Versammlung der Fachschaften einen Verteilungsschlüssel für die den Fachschaften nach § 20 Abs. 4 zustehenden Mittel.
 
 (2) Die Versammlung der Fachschaften kann sich eine Geschäftsordnung geben.
 
@@ -299,9 +299,9 @@ Die Mitglieder des studentischen Wahlausschusses erhalten für eine Amtsperiode 
 
 (5) Die VeFa wählt auf der ersten Sitzung im Wintersemester ein Präsidium, das aus mindestens drei Studierenden bestehen soll, die die gleichen Rechte und Pflichten innehaben. Das Präsidium ist die ständige Vertretung der VeFa. Es beruft die Sitzungen der VeFa ein und leitet sie. Darüber hinaus soll es in regelmäßigem Kontakt zum Präsidium des Studierendenparlaments stehen. Das Präsidium kann durch konstruktives Misstrauensvotum der VeFa abgesetzt werden. Wird kein Präsidium gewählt, beschließt die VeFa über das weitere Vorgehen.
 
-(6) Ist auf der dritten Sitzung zur Festlegung des Verteilungsschlüssels nach § 19 Abs. 4 oder bis einen Monat vor Ablauf des Haushaltsjahres kein Beschluss gefasst worden, so gilt der bis dahin angefangene Verteilungsschlüssel weiter.
+(6) Ist auf der dritten Sitzung zur Festlegung des Verteilungsschlüssels nach § 20 Abs. 4 oder bis einen Monat vor Ablauf des Haushaltsjahres kein Beschluss gefasst worden, so gilt der bis dahin angefangene Verteilungsschlüssel weiter.
 
-(7) Die Versammlung der Fachschaften verwaltet einen Projektmittelfond aus den Rückflussmitteln des Vorjahres gemäß § 19 Abs. 5. Aus den Mitteln dieses Fonds sind projektbezogene Anträge an die VeFa förderfähig. Antragsberechtigt sind
+(7) Die Versammlung der Fachschaften verwaltet einen Projektmittelfond aus den Rückflussmitteln des Vorjahres gemäß § 20 Abs. 5. Aus den Mitteln dieses Fonds sind projektbezogene Anträge an die VeFa förderfähig. Antragsberechtigt sind
 
 - Fachschaftsräte, deren finanzielle Mittel bereits aufgebraucht sind bzw. durch das Projekt aufgebraucht würden,
 - mehrere Fachschaftsräte mit einem gemeinsamen Projekt und
@@ -401,7 +401,7 @@ Die Vollversammlung der Studierendenschaft ist durch das Präsidium des Studiere
 
 (1) Das Präsidium des Studierendenparlaments leitet die Vollversammlung. Der AStA und die AntragsstellerInnen unterstützen das Präsidium bei der Durchführung und Organisation der Vollversammlung.
 
-(2) Die Einladung erfolgt durch die Bekanntmachung des Sachverhaltes innerhalb von 72 Stunden nach Eingang gemäß § 27. Sie enthält einen Vorschlag für die Tagesordnung, die alle beantragten Punkte enthält. Die Einladung erfolgt per Email über die Studentlist, über den Internetauftritt des AStA sowie über weitere geeignete Publikationsmöglichkeiten der Studierendenschaft.
+(2) Die Einladung erfolgt durch die Bekanntmachung des Sachverhaltes innerhalb von 72 Stunden nach Eingang gemäß § 28. Sie enthält einen Vorschlag für die Tagesordnung, die alle beantragten Punkte enthält. Die Einladung erfolgt per Email über die Studentlist, über den Internetauftritt des AStA sowie über weitere geeignete Publikationsmöglichkeiten der Studierendenschaft.
 
 (3) Die Vollversammlung darf nur während der Vorlesungszeit und nicht vor dem fünften Werktag, gezählt vom Tag der Bekanntmachung an, stattfinden.
 
@@ -416,7 +416,7 @@ Die Vollversammlung der Studierendenschaft ist durch das Präsidium des Studiere
 
 (1) Die materiellen und finanziellen Mittel der Studierendenschaft der Universität Potsdam werden durch den Allgemeinen Studierendenausschuss und die Fachschaftsräte gemäß den Grundsätzen und Verfügungsregelungen der Finanzordnung der Studierendenschaft der Universität Potsdam verwaltet.
 
-(2) Jede Ausgabe größer als 1.500,00 Euro aus dem Haushalt der Studierendenschaft bedarf der Zustimmung des Studierendenparlaments. Ausgenommen von Satz 1 sind die Studierendenschaftsbeiträge für die Fachschaften gemäß § 19 Abs. 4. Des weiteren bedarf jeder Antrag an den Projektmittelfonds des Studentenwerks über 1500,00 Euro der Zustimmung des Studierendenparlaments.
+(2) Jede Ausgabe größer als 1.500,00 Euro aus dem Haushalt der Studierendenschaft bedarf der Zustimmung des Studierendenparlaments. Ausgenommen von Satz 1 sind die Studierendenschaftsbeiträge für die Fachschaften gemäß § 20 Abs. 4. Des weiteren bedarf jeder Antrag an den Projektmittelfonds des Studentenwerks über 1.500,00 Euro der Zustimmung des Studierendenparlaments.
 
 (3) Das Haushaltsjahr der Studierendenschaft Potsdam beginnt am 1. Oktober eines Jahres und endet zum 30. September des darauf folgenden Jahres.
 
@@ -460,7 +460,7 @@ Der Rechnungsprüfungsausschuss bzw. die oder der Sachverständige soll auch unt
 
 ##§ 34 Schlussbestimmungen
 
-(1) Diese Satzung kann nur in der Vorlesungszeit geändert werden durch einen Beschluss des StuPa mit zwei Dritteln seiner Mitglieder und Zustimmung der VeFa mit zwei Dritteln der anwesenden Mitglieder bei Betroffenheit der §§ 1 Abs. 2; 2 Abs. 1; 4, 5 Abs. 2; 6; 12 Abs. 3; 19; 20; 24 Abs. 1 und 2; 25; 26 Abs. 1; 27 Abs. 1; 28; 30 Abs. 2 S. 2; 30 Abs. 9 und 33. Bei allen anderen Satzungsänderungen durch Beschluss des StuPa mit zwei Dritteln seiner Mitglieder hat die VeFa ein aufschiebendes Vetorecht. Dies bedeutet, dass das StuPa in der darauf folgenden Sitzung erneut darüber debattieren und endgültig mit einer Zweidrittelmehrheit seiner Mitglieder darüber befinden muss. Ein Veto der VeFa kommt zustande, wenn auf der VeFa mit einfacher Mehrheit der stimmberechtigten Mitglieder ein entsprechender Beschluss gefasst wird. Diese VeFa findet innerhalb von vier Wochen nach dem Eingang der Informationen über den StuPa-Beschluss seitens des StuPa-Präsidiums beim VeFa-Präsidium statt. Die Ladefrist beträgt mindestens sieben Werktage.
+(1) Diese Satzung kann nur in der Vorlesungszeit geändert werden durch einen Beschluss des StuPa mit zwei Dritteln seiner Mitglieder und Zustimmung der VeFa mit zwei Dritteln der anwesenden Mitglieder bei Betroffenheit der §§ 1 Abs. 2; 2 Abs. 1; 4; 5 Abs. 2; 6; 12 Abs. 3; 20; 21; 25 Abs. 1 und 2; 26; 27 Abs. 1; 28 Abs. 1; 29; 31 Abs. 2 S. 2; 31 Abs. 9 und 34. Bei allen anderen Satzungsänderungen durch Beschluss des StuPa mit zwei Dritteln seiner Mitglieder hat die VeFa ein aufschiebendes Vetorecht. Dies bedeutet, dass das StuPa in der darauf folgenden Sitzung erneut darüber debattieren und endgültig mit einer Zweidrittelmehrheit seiner Mitglieder darüber befinden muss. Ein Veto der VeFa kommt zustande, wenn auf der VeFa mit einfacher Mehrheit der stimmberechtigten Mitglieder ein entsprechender Beschluss gefasst wird. Diese VeFa findet innerhalb von vier Wochen nach dem Eingang der Informationen über den StuPa-Beschluss seitens des StuPa-Präsidiums beim VeFa-Präsidium statt. Die Ladefrist beträgt mindestens sieben Werktage.
 
 (2) Für Satzungsänderungen gelten die Fristen gemäß § 9. Initiativanträge zur Änderung der Satzung sind nicht zulässig.
 
