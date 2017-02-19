@@ -31,7 +31,7 @@ Auf der Grundlage der Satzung der Studierendenschaft der Universität Potsdam vo
 
 (2) Für ein konstruktives Misstrauensvotum gegen das Präsidium sind mindestens zwei Drittel aller stimmberechtigten Mitglieder der Versammlung der Fachschaften nötig.
 
-(3) Scheidet ein Mitglied aus dem Präsidium aus, so ist auf der folgenden Sitzung eine Nachwahl der freien Plätze gemäß § 21 (5) der Satzung der Studierendenschaft durchzuführen.
+(3) Scheidet ein Mitglied aus dem Präsidium aus und besteht das Präsidium damit aus weniger als drei Mitgliedern, so ist auf der folgenden Sitzung eine Nachwahl der freien Plätze gemäß § 21 (5) der Satzung der Studierendenschaft durchzuführen.
 
 (4) Zusätzlich zu den in der Satzung der Studierendenschaft § 21 (5) genannten Aufgaben, hat das Präsidium folgende Aufgaben:
 
@@ -122,7 +122,9 @@ Auf der Grundlage der Satzung der Studierendenschaft der Universität Potsdam vo
 (5) Bestehen Zweifel über das Auszählergebnis einer offenen Abstimmung, so erfolgt auf Verlangen eines Mitglieds eine einmalige Wiederholung der Abstimmung direkt im Anschluss. In diesem Fall kann das Präsidium eine Abstimmung mit Namensaufruf durchführen.
 
 
+##§ 11 Änderungsanträge
 
+Berechtigt, Änderungsanträge zu stellen, sind nur Mitglieder der Versammlung der Fachschaften. Umfangreiche Änderungsanträge sind den Mitgliedern der Versammlung der Fachschaften zur Beratung und Beschlussfassung schriftlich zu unterbreiten. Die Antragstellerin bzw. der Antragsteller kann die Übernahme von Änderungsanträgen erklären. Geschieht dies nicht, wird über die Annahme des Änderungsantrags abgestimmt. Wird der Änderungsantrag angenommen, wird im Anschluss über den geänderten Antrag abgestimmt. Wird der Änderungsantrag nicht angenommen, wird im Anschluss über den ursprünglichen Antrag abgestimmt.
 
 
 ##§ 12 Anträge zur Geschäftsordnung
@@ -182,7 +184,7 @@ Auf der Grundlage der Satzung der Studierendenschaft der Universität Potsdam vo
 
 (1) Der Projektmittelfonds basiert auf § 21 (7) der Satzung der Studierendenschaft.
 
-(2) Anträge zum Projektmittelfonds müssen mindestens 14 Tage vor der Sitzung, die für deren Behandlung vorgesehen ist, schriftlich beim Präsidium eingegangen sein.
+(2) Anträge zum Projektmittelfonds müssen mindestens 10 Tage vor der Sitzung, die für deren Behandlung vorgesehen ist, schriftlich beim Präsidium eingegangen sein.
 
 (3) Das Präsidium überprüft die formale Richtigkeit und lässt nach bestandener Prüfung den Antrag zur Tagesordnung zu. Die Versammlung der Fachschaften kann mit Zweidrittelmehrheit Anträge, die als nicht formal korrekt beanstandet wurden, dennoch auf die Tagesordnung setzen.
 
@@ -199,7 +201,7 @@ Auf der Grundlage der Satzung der Studierendenschaft der Universität Potsdam vo
 
 ##§ 16 Initiativanträge zum Projektmittelfonds
 
-(1) Abweichend von § 15 (2) ist es möglich, Initiativanträge beim Präsidium einzureichen. In der Regel sollte das Präsidium alle Initiativanträge bis 24 Stunden vor Sitzungsbeginn per E-Mail an die Fachschaftsräte kommunizieren.
+(1) Abweichend von § 15 (2) ist es möglich, Initiativanträge beim Präsidium einzureichen. In der Regel sollte das Präsidium alle Initiativanträge bis 48 Stunden vor Sitzungsbeginn per E-Mail an die Fachschaftsräte kommunizieren.
 
 (2) Für Initiativanträge muss begründet dargestellt werden, dass sie vor regulärer Antragsfrist nicht gestellt werden konnten.
 
