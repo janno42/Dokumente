@@ -18,7 +18,7 @@ Auf der Grundlage der Satzung der Studierendenschaft der Universität Potsdam vo
 
 (1) Die Versammlung der Fachschaften versteht sich als Interessenvertretung der Fachschaften der Universität Potsdam und dient der Koordination der Arbeit der Fachschaften und zur Kommunikation mit den anderen Gremien der Studierendenschaft gemäß § 21 (1) der Satzung der Studierendenschaft. In diesem Rahmen verwaltet und beschließt sie auch die Verwendung des Projektmittelfonds gemäß § 21 (7) der Satzung der Studierendenschaft.
 
-(2) Die Aufgabe der Koordination dient der Findung eines einheitlichen Auftretens nach außen. Die Fachschaften tauschen sich über alle für die Interessen der Fachschaft relevanten Sachverhalte aus und entwickeln gemeinsame Standpunkte.
+(2) Die Fachschaften tauschen sich über alle für die Interessen der Fachschaft relevanten Sachverhalte aus und entwickeln gemeinsame Standpunkte.
 
 (3) Die Kommunikation dient dem Austausch von wesentlichen Informationen und Neuigkeiten zwischen den Gremien der Studierendenschaft. Dazu gehören insbesondere folgende Informationen: Personalveränderungen im Studierendenparlament (StuPa) und Allgemeinen Studierendenausschuss, die Veröffentlichung des Rechnungsprüfungsberichtes, die Einberufung von Vollversammlungen und Urabstimmungen sowie alle Informationen, die für die Arbeit der Fachschaftsräte relevant sind.
 
@@ -29,9 +29,9 @@ Auf der Grundlage der Satzung der Studierendenschaft der Universität Potsdam vo
 
 (1) Die Versammlung der Fachschaften wählt jährlich ein Präsidium gemäß § 21 (5) der Satzung der Studierendenschaft.
 
-(2) Für ein konstruktives Misstrauensvotum gegen das Präsidium sind mindestens zwei Drittel aller stimmberechtigten Mitglieder der Versammlung der Fachschaften nötig.
+(2) Für ein konstruktives Misstrauensvotum gegen ein einzelnes Mitglied des Präsidiums oder gegen das gesamte Präsidium ist eine Zweidrittelmehrheit der anwesenden Mitglieder der Versammlung der Fachschaften nötig.
 
-(3) Scheidet ein Mitglied aus dem Präsidium aus und besteht das Präsidium damit aus weniger als drei Mitgliedern, so ist auf der folgenden Sitzung eine Nachwahl der freien Plätze gemäß § 21 (5) der Satzung der Studierendenschaft durchzuführen.
+(3) Scheidet ein Mitglied aus dem Präsidium aus und besteht das Präsidium damit aus weniger als drei Mitgliedern, so ist auf der folgenden Sitzung eine Zuwahl von mindestens der zu drei Mitgliedern fehlenden Zahl an Personen gemäß § 21 (5) der Satzung der Studierendenschaft durchzuführen.
 
 (4) Zusätzlich zu den in der Satzung der Studierendenschaft § 21 (5) genannten Aufgaben, hat das Präsidium folgende Aufgaben:
 
@@ -39,11 +39,12 @@ Auf der Grundlage der Satzung der Studierendenschaft der Universität Potsdam vo
 - Zusammenarbeit mit dem Allgemeinen Studierendenausschuss, dem Studierendenparlament und anderen Gremien
 - Durchsetzung der Bestimmungen dieser Geschäftsordnung
 - Betreuung der Homepage der Versammlung der Fachschaften
+- Bericht über die Arbeit des Präsidiums zum Beginn jeder Sitzung
 
 
 ##§ 4 Sitzungen der Versammlung der Fachschaften
 
-(1) Sitzungen der Versammlung der Fachschaften finden mindestens halbjährlich statt.
+(1) Sitzungen der Versammlung der Fachschaften finden mindestens halbjährlich, in der Regel aber einmal monatlich, statt.
 
 (2) Zu den Sitzungen ist mindestens 7 Tage vorher schriftlich, in der Regel per E-Mail, einzuladen.
 
@@ -56,7 +57,7 @@ Auf der Grundlage der Satzung der Studierendenschaft der Universität Potsdam vo
 
 (3) Die Sitzungsleitung hat für den geordneten Ablauf der Sitzungen zu sorgen, kann zur Durchsetzung dieser Geschäftsordnung zur Sache und zur Ordnung rufen.
 
-(4) Die Sitzungsleitung darf Anwesende, die den Sitzungsverlauf stören, auf Antrag an das Plenum der Sitzung verweisen. Der Antrag auf Ausschluss muss mit einfacher Mehrheit angenommen werden.
+(4) Die Sitzungsleitung darf Anwesende, die den Sitzungsverlauf mutwillig stören, auf Antrag an das Plenum der Sitzung verweisen. Der Antrag auf Ausschluss muss mit einfacher Mehrheit angenommen werden.
 
 
 ##§ 6 Sitzungsverlauf
@@ -72,18 +73,20 @@ Auf der Grundlage der Satzung der Studierendenschaft der Universität Potsdam vo
 
 ##§ 7 Stimm-, Rede- und Antragsrecht
 
-(1) Stimmberechtigt sind die Mitglieder der Versammlung der Fachschaften gemäß § 1 (1). Jedes Mitglied besitzt eine Stimme.
+(1) Stimmberechtigt sind die Mitglieder der Versammlung der Fachschaften gemäß § 1 (1). Jedes Mitglied besitzt eine Stimme. Eine Delegierung weiterer Stimmen auf eine Person ist nicht möglich.
 
-(2) Rede- und Antragsrecht haben alle Mitglieder der Studierendenschaft. Abweichungen davon können sich aus § 12 (3) 12. und § 15 ergeben.
+(2) Rede- und Antragsrecht haben alle Mitglieder der Studierendenschaft. Abweichungen davon können sich aus § 7 (3), § 12 (3) 12. und § 15 ergeben.
+
+(3) Die Sitzungsleitung darf Gästen das Rederecht einräumen.
 
 
 ##§ 8 Beschlussfähigkeit
 
-(1) Die Beschlussfähigkeit ist gemäß § 6 (1, 3) der Satzung der Studierendenschaft gegeben, wenn ordnungsgemäß eingeladen wurde und mindestens die Hälfte aller Fachschaften vertreten ist.
+(1) Die Beschlussfähigkeit ist gemäß § 6 (1, 3) der Satzung der Studierendenschaft gegeben, wenn ordnungsgemäß eingeladen wurde und mindestens die Hälfte aller Fachschaften vertreten ist. Über Anträge zur Geschäftsordnung kann unabhängig von der Beschlussfähigkeit abgestimmt werden.
 
 (2) Die festgestellte Beschlussfähigkeit ist solange gegeben, bis auf Antrag eines stimmberechtigten Mitglieds die Beschlussfähigkeit erneut geprüft und daraufhin gegebenenfalls die Beschlussunfähigkeit festgestellt wird.
 
-(3) Ist eine Angelegenheit wegen Beschlussunfähigkeit zurückgestellt worden, so ist die Versammlung der Fachschaften in der nächsten Sitzung während der Beratung derselben Angelegenheit unabhängig von der Anzahl der erschienenen Mitglieder beschlussfähig. Hierauf ist gemäß § 6 (4) der Satzung der Studierendenschaft in der Einladung ausdrücklich hinzuweisen. Davon ausgeschlossen sind Beschlüsse, für die eine Zweidrittelmehrheit erforderlich ist.
+(3) Ist eine Angelegenheit wegen Beschlussunfähigkeit zurückgestellt worden, so ist die Versammlung der Fachschaften in der nächsten Sitzung während der Beratung derselben Angelegenheit unabhängig von der Anzahl der erschienenen Mitglieder beschlussfähig. Hierauf ist gemäß § 6 (4) der Satzung der Studierendenschaft in der Einladung ausdrücklich hinzuweisen. Davon ausgeschlossen sind Beschlüsse, für die eine Zweidrittelmehrheit der Mitglieder erforderlich ist. Für Anträge und Initiativanträge zum Projektmittelfonds ist die Versammlung der Fachschaften in jedem Fall auf der folgenden Sitzung beschlussfähig.
 
 
 ##§ 9 Tagesordnung
@@ -95,7 +98,7 @@ Auf der Grundlage der Satzung der Studierendenschaft der Universität Potsdam vo
 3. Genehmigung des Protokolls der letzten Sitzung
 4. Mitteilungen des Präsidiums
 
-(2) Die Tagesordnung muss die Punkte „Mitteilungen der Fachschaftsräte“ und „Mitteilungen des Allgemeinen Studierendenausschusses“ enthalten. Das Präsidium hat dafür folgende Sachverhalte abzufragen:
+(2) Die Tagesordnung muss die Punkte „Mitteilungen der Fachschaftsräte“ und „Mitteilungen des Allgemeinen Studierendenausschusses“ enthalten. Das Präsidium sollte dafür folgende Sachverhalte abfragen:
 
 1. Personalveränderungen im Allgemeinen Studierendenausschuss, dem Studierendenparlament und den Fachschaftsräten
 2. wichtige anstehende Veranstaltungen und Projekte innerhalb der nächsten sechs Monate
@@ -104,22 +107,26 @@ Auf der Grundlage der Satzung der Studierendenschaft der Universität Potsdam vo
 (3) Kann die Tagesordnung in einer Sitzung nicht vollständig bearbeitet werden, so wird entweder ein Termin für eine außerordentliche Sitzung vereinbart oder die nicht behandelten Tagesordnungspunkte werden in der nächsten regulären Sitzung behandelt.
 
 
-##§ 10 Anträge und Beschlüsse
+##§ 10 Anträge, Beschlüsse und Mehrheiten
 
 (1) Bei allen Anträgen, die sich nicht auf den Projektmittelfonds beziehen, gibt es keine Antragsfristen.
 
-(2) Beschlüsse der Versammlung der Fachschaften werden grundsätzlich offen mit einfacher Mehrheit der anwesenden Mitglieder gefasst, sofern die Satzung der Studierendenschaft oder diese Geschäftsordnung nichts anderes vorschreiben. Eine einfache Mehrheit ist erreicht, wenn die Anzahl der Ja-Stimmen die der Nein-Stimmen überwiegt. Werden mehr Enthaltungsstimmen als Ja- und Nein-Stimmen zusammen abgegeben, gilt der Antrag als abgelehnt (Enthaltungsmehrheit). Stimmengleichheit gilt als Ablehnung. Abstimmungen erfolgen durch Handzeichen.
+(2) Beschlüsse der Versammlung der Fachschaften werden grundsätzlich offen mit einfacher Mehrheit der anwesenden Mitglieder gefasst, sofern die Satzung der Studierendenschaft oder diese Geschäftsordnung nichts anderes vorschreiben. Abstimmungen erfolgen durch Handzeichen.
 
-(3) Bei der Abstimmung soll folgende Reihenfolge eingehalten werden:
+(3) Eine einfache Mehrheit ist erreicht, wenn die Anzahl der Ja-Stimmen die der Nein-Stimmen überwiegt. Werden mehr Enthaltungsstimmen als Ja- und Nein-Stimmen zusammen abgegeben, gilt der Antrag als abgelehnt (Enthaltungsmehrheit). Stimmengleichheit gilt als Ablehnung.
+
+(4) Um eine absolute Mehrheit zu erreichen, müssen mehr als die Hälfte der anwesenden Mitglieder mit Ja stimmen.
+
+(5) Bei der Abstimmung soll folgende Reihenfolge eingehalten werden:
 
 1. Geschäftsordnungsanträge
 2. Änderungsanträge
 3. Zusatzanträge/Ergänzungsanträge
 4. Abstimmung über den Gegenstand selbst.
 
-(4) Über den weitergehenden Antrag ist grundsätzlich zuerst abzustimmen. Bei Zeitbestimmungen ist über die längere Zeit zuerst zu entscheiden. Schließen sich Anträge gegenseitig aus, so sind sie alternativ zur Abstimmung zu stellen.
+(6) Über den weitergehenden Antrag ist grundsätzlich zuerst abzustimmen. Bei Zeitbestimmungen ist über die längere Zeit zuerst zu entscheiden. Schließen sich Anträge gegenseitig aus, so sind sie alternativ zur Abstimmung zu stellen.
 
-(5) Bestehen Zweifel über das Auszählergebnis einer offenen Abstimmung, so erfolgt auf Verlangen eines Mitglieds eine einmalige Wiederholung der Abstimmung direkt im Anschluss. In diesem Fall kann das Präsidium eine Abstimmung mit Namensaufruf durchführen.
+(7) Bestehen Zweifel über das Auszählergebnis einer offenen Abstimmung, so erfolgt auf Verlangen eines Mitglieds eine einmalige Wiederholung der Abstimmung direkt im Anschluss. In diesem Fall kann das Präsidium eine Abstimmung mit Namensaufruf durchführen.
 
 
 ##§ 11 Änderungsanträge
@@ -129,7 +136,7 @@ Berechtigt, Änderungsanträge zu stellen, sind nur Mitglieder der Versammlung d
 
 ##§ 12 Anträge zur Geschäftsordnung
 
-(1) Anträge zur Geschäftsordnung können nur durch Mitglieder der Versammlung der Fachschaften gestellt werden. Sie sind durch Heben beider Hände anzuzeigen. Sie dürfen sich nur mit dem Sitzungsverlauf befassen. Abweichend hiervon können Anträge zur Geschäftsordnung nach § 12 (3) 16., 17. und 19. auch durch Mitglieder der Studierendenschaft gestellt werden.
+(1) Anträge zur Geschäftsordnung können nur durch Mitglieder der Versammlung der Fachschaften und die Sitzungsleitung gestellt werden. Sie sind durch Heben beider Hände anzuzeigen. Sie dürfen sich nur mit dem Sitzungsverlauf befassen. Abweichend hiervon können Anträge zur Geschäftsordnung nach § 12 (3) 16., 17. und 19. auch durch Mitglieder der Studierendenschaft gestellt werden.
 
 (2) Durch Anträge zur Geschäftsordnung wird die Redeliste, nicht aber eine redende Person unterbrochen.
 
@@ -147,7 +154,7 @@ Berechtigt, Änderungsanträge zu stellen, sind nur Mitglieder der Versammlung d
 10. Wiederaufnahme der Redeliste
 11. Einschränkung des Rederechts
 12. Rederecht für Nichtmitglieder der Studierendenschaft
-13. Verkürzung der Redezeit
+13. Verkürzung oder Verlängerung der Redezeit
 14. Ausschluss der Öffentlichkeit (mit Zweidrittelmehrheit gemäß § 4 (3) der Satzung der Studierendenschaft, Beratung zu diesem Antrag ist nicht öffentlich)
 15. Zulassung Einzelner bei Ausschluss der Öffentlichkeit (mit Zweidrittelmehrheit)
 16. Durchführung eines Meinungsbildes unter allen Mitgliedern der Versammlung der Fachschaften (bedarf nur der Zustimmung der Sitzungsleitung)
@@ -186,7 +193,7 @@ Berechtigt, Änderungsanträge zu stellen, sind nur Mitglieder der Versammlung d
 
 (2) Anträge zum Projektmittelfonds müssen mindestens 10 Tage vor der Sitzung, die für deren Behandlung vorgesehen ist, schriftlich beim Präsidium eingegangen sein.
 
-(3) Das Präsidium überprüft die formale Richtigkeit und lässt nach bestandener Prüfung den Antrag zur Tagesordnung zu. Die Versammlung der Fachschaften kann mit Zweidrittelmehrheit Anträge, die als nicht formal korrekt beanstandet wurden, dennoch auf die Tagesordnung setzen.
+(3) Das Präsidium überprüft die formale Richtigkeit und lässt nach bestandener Prüfung den Antrag zur Tagesordnung zu. Die Versammlung der Fachschaften kann mit Zweidrittelmehrheit der anwesenden Mitglieder Anträge, die als nicht formal korrekt beanstandet wurden, dennoch auf die Tagesordnung setzen.
 
 (4) Ein formal korrekter Antrag muss folgende Kriterien erfüllen:
 
@@ -194,9 +201,9 @@ Berechtigt, Änderungsanträge zu stellen, sind nur Mitglieder der Versammlung d
 2. Der inhaltliche Bericht hat mindestens zwei unterstützende Fachschaftsräte zu nennen oder das Präsidium, wenn der Antrag darüber eingebracht wird. Das Projekt oder die Veranstaltung muss ausführlich beschrieben und die Ziele müssen benannt sein. Der studentische Bezug muss aus der Projektbeschreibung ersichtlich sein. Ort, Datum bzw. Zeitraum, die Finanzverantwortlichen und ihre Kontaktdaten müssen enthalten sein.
 3. Der finanzielle Bericht muss aus einem Finanzplan mit allen Einnahmen und Ausgaben bestehen. Dazu gehört insbesondere die Nennung aller Sponsoren und Einnahmequellen, die für das gesamte Projekt oder die Veranstaltung relevant sind.
 
-(3) Die Anträge sind der Einladung zur Sitzung anzuhängen und auf der Homepage der Versammlung der Fachschaften zu veröffentlichen.
+(5) Die Anträge sind der Einladung zur Sitzung anzuhängen und auf der Homepage der Versammlung der Fachschaften zu veröffentlichen.
 
-(4) Die Verwaltung, Auszahlung und Kontrolle der Gelder des Projektmittelfonds sowie die Kontrolle der Abrechnungen der jeweiligen Antragstellerinnen und Antragsteller übernimmt das Präsidium in Zusammenarbeit mit dem Finanzreferat des Allgemeinen Studierendenausschusses. Das Präsidium hat hierbei die ordnungsgemäße Abrechnung zu kontrollieren und den Fachschaften öffentlich zu machen.
+(6) Die Verwaltung, Auszahlung und Kontrolle der Gelder des Projektmittelfonds sowie die Kontrolle der Abrechnungen der jeweiligen Antragstellerinnen und Antragsteller übernimmt das Präsidium in Zusammenarbeit mit dem Finanzreferat des Allgemeinen Studierendenausschusses. Das Präsidium hat hierbei die ordnungsgemäße Abrechnung zu kontrollieren und den Fachschaften öffentlich zu machen.
 
 
 ##§ 16 Initiativanträge zum Projektmittelfonds
@@ -214,7 +221,7 @@ Berechtigt, Änderungsanträge zu stellen, sind nur Mitglieder der Versammlung d
 
 (2) Ein Beschluss zur Änderung der Geschäftsordnung darf frühestens nach der zweiten Lesung erfolgen.
 
-(3) Die Änderung der Geschäftsordnung bedarf einer Zweidrittelmehrheit.
+(3) Die Änderung der Geschäftsordnung bedarf einer Zweidrittelmehrheit der anwesenden Mitglieder.
 
 
 ##§ 18 Inkrafttreten
