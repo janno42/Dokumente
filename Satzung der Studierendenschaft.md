@@ -1,9 +1,9 @@
 # Satzung der Studierendenschaft der Universität Potsdam
 **Vom 13. Juli 2005**
 
-i.d.F. der Dritten Änderungssatzung der Satzung der Studierendenschaft der Universität Potsdam
+i.d.F. der Vierten Änderungssatzung der Satzung der Studierendenschaft der Universität Potsdam
 
-**Vom 12. Januar 2016**
+**Vom X. XXXXX 2017**
 
 
 ----------
@@ -89,11 +89,11 @@ i.d.F. der Dritten Änderungssatzung der Satzung der Studierendenschaft der Univ
 
 (1) Beschlussfähigkeit der Organe der Studierendenschaft ist dann gegeben, wenn ordnungsgemäß eingeladen wurde und mindestens die Hälfte der Mitglieder eines Organs anwesend ist. Die Zahl und Namen der anwesenden Mitglieder werden im Protokoll festgehalten.
 
-(2) Abweichend von Absatz 1 müssen die Anwesenden einer Fachschaftsvollversammlung nicht namentlich erfasst werden. Auch kann die Vollversammlung einer Fachschaft abweichend von Absatz 1 mit einem abweichenden Quorum beschlussfähig sein. Näheres regelt die Ordnung der Fachschaft.
+(2) Abweichend von Abs. 1 müssen die Anwesenden einer Fachschaftsvollversammlung nicht namentlich erfasst werden. Auch kann die Vollversammlung einer Fachschaft abweichend von Abs. 1 mit einem abweichenden Quorum beschlussfähig sein. Näheres regelt die Ordnung der Fachschaft.
 
-(3) Abweichend von Absatz 1 Satz 1 ist die Versammlung der Fachschaften dann beschlussfähig, wenn mindestens die Hälfte der Fachschaften jeweils durch mindestens ein stimmberechtigtes Mitglied vertreten ist.
+(3) Abweichend von Abs. 1 Satz 1 ist die Versammlung der Fachschaften dann beschlussfähig, wenn mindestens die Hälfte der Fachschaften jeweils durch mindestens ein stimmberechtigtes Mitglied vertreten ist.
 
-(4) Abweichend von Absatz 1 Satz 1 ist ein Organ der Studierendenschaft ungeachtet der Zahl der anwesenden Mitglieder auch dann beschlussfähig, wenn in einer ersten Sitzung über einen Gegenstand ein Beschluss nicht zustande kam, weil weniger als die Hälfte der Mitglieder anwesend war und das Organ wegen des gleichen Gegenstandes erneut einberufen wird. Weitere Anträge sind nur im Falle einer Beschlussfähigkeit gemäß Absatz 1 zugelassen. Bei der Einladung zur zweiten Sitzung muss auf diese Regelung hingewiesen werden.
+(4) Abweichend von Abs. 1 Satz 1 ist ein Organ der Studierendenschaft ungeachtet der Zahl der anwesenden Mitglieder auch dann beschlussfähig, wenn in einer ersten Sitzung über einen Gegenstand ein Beschluss nicht zustande kam, weil weniger als die Hälfte der Mitglieder anwesend war und das Organ wegen des gleichen Gegenstandes erneut einberufen wird. Weitere Anträge sind nur im Falle einer Beschlussfähigkeit gemäß Abs. 1 zugelassen. Bei der Einladung zur zweiten Sitzung muss auf diese Regelung hingewiesen werden.
 
 
 ## § 6a Umlaufbeschlüsse in Fachschaftsräten
@@ -170,7 +170,7 @@ Scheidet ein Mitglied aus, rückt automatisch die Person mit den nächstmeisten 
 
 (3) Das Studierendenparlament wählt bei der konstituierenden Sitzung aus seinen Reihen ein Präsidium, das aus drei Personen besteht, die die gleichen Rechte und Pflichten innehaben. Die Mitglieder des Präsidiums müssen mindestens von zwei unterschiedlichen Wahllisten stammen. Das Präsidium ist die ständige Vertretung des Studierendenparlaments. Es beruft die Sitzungen des Studierendenparlaments ein und leitet sie. Darüber hinaus soll es in regelmäßigem Kontakt zum Präsidium der Versammlung der Fachschaften stehen. Das Präsidium kann durch konstruktives Misstrauensvotum des Studierendenparlaments abgesetzt werden.
 
-(4) Abweichend von Absatz 3 kann das Präsidium aus ein oder zwei Personen bestehen, solange die verbleibenden Plätze nicht besetzt werden können. Das Präsidium setzt in diesem Fall auf jeder ordentlichen Sitzung des Parlamentes die Wahl zum Präsidium auf die Tagesordnung. Ist das Präsidium komplett unbesetzt, wird die Sitzung des Parlaments vertagt. Die Wahl zum Präsidium muss auf der nächsten Sitzung an den Beginn der Tagesordnung gesetzt werden.
+(4) Abweichend von Abs. 3 kann das Präsidium aus ein oder zwei Personen bestehen, solange die verbleibenden Plätze nicht besetzt werden können. Das Präsidium setzt in diesem Fall auf jeder ordentlichen Sitzung des Parlamentes die Wahl zum Präsidium auf die Tagesordnung. Ist das Präsidium komplett unbesetzt, wird die Sitzung des Parlaments vertagt. Die Wahl zum Präsidium muss auf der nächsten Sitzung an den Beginn der Tagesordnung gesetzt werden.
 
 
 ## § 11 Sitzungen
@@ -185,7 +185,7 @@ Scheidet ein Mitglied aus, rückt automatisch die Person mit den nächstmeisten 
 
 An Sonnabenden und Sonntagen finden keine Sitzungen statt.
 
-(2) Ordnungsgemäß eingeladen ist, wenn mindestens neun Tage vor der Sitzung die Einladungen abgesendet werden. Die Einladung kann per E-Mail oder per Brief erfolgen und muss die Tagesordnung enthalten. Bei außerordentlichen Sitzungen sind die Einladungen fünf Tage vorher per Email oder Brief abzusenden. Außerordentliche Sitzungen sind vier Tage vorher im Internetauftritt der Studierendenschaft anzukündigen.
+(2) Ordnungsgemäß eingeladen ist, wenn mindestens neun Tage vor der Sitzung die Einladungen abgesendet werden. Die Einladung kann per E-Mail oder per Brief erfolgen und muss die Tagesordnung enthalten. Bei außerordentlichen Sitzungen sind die Einladungen fünf Tage vorher per E-Mail oder Brief abzusenden. Außerordentliche Sitzungen sind vier Tage vorher im Internetauftritt der Studierendenschaft anzukündigen.
 
 (3) Näheres regelt die Geschäftsordnung des Studierendenparlaments der Universität Potsdam.
 
@@ -254,11 +254,11 @@ Am Ende der Amtsperiode führen die Referentinnen und Referenten ihre Amtsgesch�
 
 (1) Über ihre Arbeit sind die einzelnen Referentinnen und Referenten gegenüber der Studierendenschaft und insbesondere gegenüber dem Studierendenparlament jederzeit, aber mindestens zu den Sitzungen des Studierendenparlamentes rechenschaftspflichtig.
 
-(2) Kommt ein Mitglied des AStA seiner/ihrer Rechenschaftspflicht nicht nach, kann das Studierendenparlament dieses Mitglied schriftlich oder per E-Mail dazu auffordern.
+(2) Kommt ein Mitglied des AStA der Rechenschaftspflicht nicht nach, kann das Studierendenparlament dieses Mitglied schriftlich oder per E-Mail dazu auffordern.
 
-(3) Kommt das Mitglied des AStA auch nach zweimaliger Aufforderung durch das Studierendenparlament seiner/ihrer Rechenschaftspflicht bis zur nächsten Sitzung nicht nach, muss auf Antrag von 25% der Mitglieder des Studierendenparlamentes eine Beschlussvorlage zur Kürzung der Aufwandsentschädigung des Mitglieds des AStA um einen halben Monatssatz behandelt werden.
+(3) Kommt das Mitglied des AStA auch nach zweimaliger Aufforderung durch das Studierendenparlament der Rechenschaftspflicht bis zur nächsten Sitzung nicht nach, muss auf Antrag von 25% der Mitglieder des Studierendenparlamentes eine Beschlussvorlage zur Kürzung der Aufwandsentschädigung des Mitglieds des AStA um einen halben Monatssatz behandelt werden.
 
-(4) Kommt das Mitglied des AStA seiner/ihrer Rechenschaftspflicht zur nächsten Sitzung des Studierendenparlamentes weiterhin nicht nach, muss auf Antrag von 25% der Mitglieder des Studierendenparlamentes eine Beschlussvorlage zur Kürzung der Aufwandsentschädigung um einen ganzen Monatssatz behandelt werden.
+(4) Kommt das Mitglied des AStA der Rechenschaftspflicht zur nächsten Sitzung des Studierendenparlamentes weiterhin nicht nach, muss auf Antrag von 25% der Mitglieder des Studierendenparlamentes eine Beschlussvorlage zur Kürzung der Aufwandsentschädigung um einen ganzen Monatssatz behandelt werden.
 
 
 ## § 16 Aufwandsentschädigung
@@ -364,8 +364,8 @@ Institutionen der unmittelbaren Einbeziehung der Studierenden in Entscheidungen 
 
 (1) Die Urabstimmung findet statt:
 
-- auf Beschluss des AStA mit einer Zweidrittelmehrheit,
 - auf Beschluss des Studierendenparlaments,
+- auf Beschluss des AStA mit einer Zweidrittelmehrheit,
 - auf Verlangen von fünf Fachschaftsräten,
 - auf Verlangen von mindestens drei Prozent der Mitglieder der Studierendenschaft.
 
@@ -398,17 +398,17 @@ Aufgaben der Vollversammlung sind:
 
 (1) Jedes Mitglied der Studierendenschaft der Universität Potsdam ist stimmberechtigt. Für das Rede- und Antragsrecht gilt die Geschäftsordnung der Vollversammlung.
 
-(2) Näheres regelt die Rahmenwahlordnung und die Geschäftsordnung der Vollversammlung der Studierendenschaft der Universität Potsdam.
+(2) Näheres regeln die Rahmenwahlordnung und die Geschäftsordnung der Vollversammlung der Studierendenschaft der Universität Potsdam.
 
 
 ## § 28 Zustandekommen
 
 (1) Eine Vollversammlung findet statt:
 
-- auf Beschluss des AStA mit einer Zweidrittelmehrheit,
 - auf Beschluss des Studierendenparlaments,
-- auf Verlangen von zwei Prozent der Mitglieder der Studierendenschaft der Universität Potsdam,
-- auf Verlangen von vier Fachschaftsräten.
+- auf Beschluss des AStA mit einer Zweidrittelmehrheit,
+- auf Verlangen von vier Fachschaftsräten,
+- auf Verlangen von zwei Prozent der Mitglieder der Studierendenschaft.
 
 (2) Eine Vollversammlung findet weiterhin statt vor einer Urabstimmung gemäß § 25 Abs. 7.
 
@@ -449,9 +449,9 @@ Aufgaben der Vollversammlung sind:
 
 (5) Die Mitglieder der Studierendenschaft entrichten einmal im Semester einen finanziellen Beitrag zur Studierendenschaft. Die Höhe des Beitrages regelt die Finanzordnung der Studierendenschaft der Universität Potsdam. Beiträge zur Studierendenschaft sind nicht rückzahlbar.
 
-(6) Der jährliche Haushaltsplan ist unter Verantwortung der Finanzreferentin bzw. des Finanzreferenten des AStA dem Studierendenparlament zur Beschlussfassung vorzulegen. Das Präsidium des Studierendenparlaments lädt bis zum 15. September das Studierendenparlament zu einer Sitzung ein, in der dieser Haushaltsplan diskutiert und beschlossen werden soll. Die beschlossenen Finanzpläne der Fachschaften sind durch die Finanzreferentin bzw. den Finanzreferenten des jeweiligen Fachschaftsrates dem AStA anzuzeigen. Die Anzeige des Finanzplanes durch die Fachschaftsräte ist Voraussetzung für das Bereitstellen finanzieller Mittel durch den AStA. Zu allen politischen Maßnahmen und Beschlüssen, die finanzielle Ausgaben nach Absatz 2 dieser Satzung erforderlich machen, sind exakte Finanzierungspläne auszuarbeiten und durch den AStA und das Studierendenparlament zu beschließen.
+(6) Der jährliche Haushaltsplan ist unter Verantwortung der Finanzreferentin bzw. des Finanzreferenten des AStA dem Studierendenparlament zur Beschlussfassung vorzulegen. Das Präsidium des Studierendenparlaments lädt bis zum 15. September das Studierendenparlament zu einer Sitzung ein, in der dieser Haushaltsplan diskutiert und beschlossen werden soll. Die beschlossenen Finanzpläne der Fachschaften sind durch die Finanzreferentin bzw. den Finanzreferenten des jeweiligen Fachschaftsrates dem AStA anzuzeigen. Die Anzeige des Finanzplanes durch die Fachschaftsräte ist Voraussetzung für das Bereitstellen finanzieller Mittel durch den AStA. Zu allen politischen Maßnahmen und Beschlüssen, die finanzielle Ausgaben nach Abs. 2 dieser Satzung erforderlich machen, sind exakte Finanzierungspläne auszuarbeiten und durch den AStA und das Studierendenparlament zu beschließen.
 
-(7) Bis zum In-Kraft-Treten des neuen Haushalts gilt vorläufig der Haushaltsplan des vorhergehenden Haushaltsjahres, wobei pro Monat 1/12 der im Vorjahreshaushalt vorgesehenen Gesamtausgabe in Ansatz gebracht werden.
+(7) Bis zum In-Kraft-Treten des neuen Haushalts gilt vorläufig der Haushaltsplan des vorhergehenden Haushaltsjahres, wobei pro Monat ein Zwölftel der im Vorjahreshaushalt vorgesehenen Gesamtausgabe in Ansatz gebracht werden.
 
 (8) Die Ausgaben eines Haushaltsjahres müssen durch die Einnahmen gedeckt sein. Haushaltsüberschüsse sind zulässig, sofern diese Überschüsse zweckgebunden sind und in künftige Projekte der Studierendenschaft investiert werden.
 
@@ -469,12 +469,12 @@ Aufgaben der Vollversammlung sind:
 
 ## § 33 Haushaltsprüfung
 
-(1) Das Studierendenparlament bestimmt einen Rechnungsprüfungsausschuss. Personen, die während des zu überprüfenden Zeitraumes Mitglieder des AStA, des StuPa oder eines Fachschaftsrates waren bzw. immer noch sind, sind nicht zugelassen. Abweichend davon kann das Studierendenparlament auch eine oder einen Sachverständigen, die oder der nicht Mitglied oder Angehöriger der Universität Potsdam ist, mit der Haushaltsprüfung beauftragen. Dieser Rechnungsprüfungsausschuss bzw. die oder der Sachverständige überprüft das Finanzgebaren der Studierendenschaft auf:
+(1) Das Studierendenparlament bestimmt einen Rechnungsprüfungsausschuss. Personen, die während des zu überprüfenden Zeitraumes Mitglieder des AStA, des StuPa oder eines Fachschaftsrates waren bzw. immer noch sind, sind nicht zugelassen. Abweichend davon kann das Studierendenparlament auch Sachverständige, die nicht Mitglied oder Angehörige der Universität Potsdam sind, mit der Haushaltsprüfung beauftragen. Dieser Rechnungsprüfungsausschuss bzw. die Sachverständigen überprüfen das Finanzgebaren der Studierendenschaft auf:
 
 - Einhaltung des Haushaltsplans,
 - sachliche und rechnerische Richtigkeit.
 
-Der Rechnungsprüfungsausschuss bzw. die oder der Sachverständige soll auch unterjährige Haushaltskontrollen durchführen. Nach seiner Überprüfung erstattet der Ausschuss oder die/der Sachverständige auf der vorletzten Sitzung der Amtsperiode dem Studierendenparlament und der VeFa auf einer gemeinsamen Sitzung Bericht und macht das Ergebnis bekannt.
+Der Rechnungsprüfungsausschuss bzw. die Sachverständigen sollen auch unterjährige Haushaltskontrollen durchführen. Nach der Überprüfung erstatten der Ausschuss oder die Sachverständigen auf der vorletzten Sitzung der Amtsperiode dem Studierendenparlament und der VeFa auf einer gemeinsamen Sitzung Bericht und machen das Ergebnis bekannt.
 
 (2) Die Mitglieder des Rechnungsprüfungsausschusses erhalten für eine Amtsperiode eine Aufwandsentschädigung, die jährlich vom StuPa festzulegen ist.
 
