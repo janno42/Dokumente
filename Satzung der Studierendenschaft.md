@@ -100,7 +100,7 @@ i.d.F. der Vierten Änderungssatzung der Satzung der Studierendenschaft der Univ
 
 (1) Abweichend von § 6 Abs. 1 können Fachschaftsräte Beschlüsse im Umlaufverfahren fassen.
 
-(2) Für die Stimmabgabe ist sicherzustellen, dass nur stimmberechtigte Mitglieder des Fachschaftsrates abstimmen können. Das Stimmverhalten und die Beschlussfassung sind zusätzlich zu einer Erklärung, dass alle Mitglieder des Fachschaftsrates über die Durchführung des Umlaufbeschlusses informiert wurden, zu dokumentieren.
+(2) Für die Stimmabgabe ist sicherzustellen, dass nur stimmberechtigte Mitglieder des Fachschaftsrates abstimmen können. Weiterhin ist sicherzustellen, dass die ganze Fachschaft zu Beginn der Umlauffrist mindestens per E-Mail oder Webseite über den Umlaufbeschluss sowie eine Kontaktadresse informiert wird. Die Information an die Fachschaft, das Stimmverhalten und die Beschlussfassung sind zusätzlich zu einer Erklärung, dass alle Mitglieder des Fachschaftsrates über die Durchführung des Umlaufbeschlusses informiert wurden, zu dokumentieren.
 
 (3) Ein Umlaufbeschluss gilt als gefasst, wenn er rechnerisch nicht mehr abgelehnt werden kann. Ein Umlaufbeschluss gilt als abgelehnt, wenn er rechnerisch nicht mehr angenommen werden kann. Die Möglichkeit zur Stimmabgabe ist zeitlich zu befristen. Sind binnen der Frist nicht genügend Stimmen abgegeben, so gilt der Beschluss als nicht gefasst. Das Ergebnis des Umlaufbeschlusses ist binnen der in § 4 Abs. 2 festgelegten Frist zu veröffentlichen.
 
